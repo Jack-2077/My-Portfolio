@@ -1,5 +1,3 @@
-export default function Resume(){
-  return(
-    <d1>
-  )
+export default function Resume() {
+  return <h1>Resume</h1>;
 }
